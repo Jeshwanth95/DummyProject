@@ -3,4 +3,5 @@ for practice
 
 # Introduction to JIRA
 * easy to track bug
-* simple tool
+* simple and easy to update
+* Used for complex documents 
