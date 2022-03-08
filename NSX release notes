@@ -7,7 +7,7 @@ For additional information, see the VMware NSX Migration for VMware Cloud Direct
 The known issues are grouped as follows.
 
 
-```
+
 Step:[vcdOperations]:[resetTargetExternalNetwork]:3911 [INFO] [VDC-demo]| Rollback:Reset the target external network
 Exception: Failed to reset the target external network 'external-network-name' to its initial state: [ xx-xx-xx-xx-xx]
 The provided list 'ipRanges.values' should have at least one item in it.
